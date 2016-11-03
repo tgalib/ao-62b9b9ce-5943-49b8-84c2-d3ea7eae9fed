@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: View from Wharf Street
+External-Identifier: 62b9b9ce-5943-49b8-84c2-d3ea7eae9fed
+
